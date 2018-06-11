@@ -1,0 +1,6 @@
+setx GPU_FORCE_64BIT_PTR 0
+setx GPU_MAX_HEAP_SIZE 100
+setx GPU_USE_SYNC_OBJECTS 1
+setx GPU_MAX_ALLOC_PERCENT 100
+setx GPU_SINGLE_ALLOC_PERCENT 100
+EthDcrMiner64.exe -epool asia1.ethermine.org:4444 -ewal 0x2345c046d565cac5b5ce02fb0763499cd784e56c.Rig1 -epsw x

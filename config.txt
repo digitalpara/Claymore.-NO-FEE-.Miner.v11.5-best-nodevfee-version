@@ -1,0 +1,11 @@
+-epool asia1.ethermine.org:4444
+-ewal 0x26eec046d565cac5b5ce02fb0763499cd784e56c
+-epsw x
+#-dpool stratum+tcp://yiimp.ccminer.org:4252
+#-dwal DsUt9QagrYLvSkJHXCvhfiZHKafVtzd7Sq4
+#-dpsw x
+#-esm 1
+#-mode 0
+#-tt 70
+#-asm 0
+#-eres 0
